@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics,Web Developement
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Interactive and Responsive Web Development, Data Analysis 
-- 📫 How to reach me X:@om_porje, LinkedIn:www.linkedin.com/in/om-porje-a27849258, Instagram: the_4g_om
+- 📫 How to reach me X:https://twitter.com/om_porje, LinkedIn:www.linkedin.com/in/om-porje-a27849258, Instagram: the_4g_om
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love sports!!!
 
