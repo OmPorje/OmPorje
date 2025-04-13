@@ -1,14 +1,50 @@
-- 👋 Hi, I’m @OmPorje
-- 👋 Hi there! I’m a passionate developer and tech enthusiast.  
-🎓 BSc.IT Graduate | 💻 Web Developer | 📊 Aspiring Data Scientist 
-- 👀 I’m interested in Data Analytics,Web Developement
-- 🌱 Currently diving deeper into Data Science at DeveLearn Institute. 
-- 💞️ I’m looking to collaborate on Interactive and Responsive Web Development, Data Analysis 
-- 💼 Built a gym web app using Node.js, Stripe API, and interactive frontend tech.  
-- 🧠 Always curious to learn & grow — one project at a time.  
-- 📌 Exploring: Web Development | SQL | Python | Machine Learning  
-- 📫 Let’s connect and build something amazing together!
-- 📫 How to reach me X:https://twitter.com/om_porje, LinkedIn:www.linkedin.com/in/om-porje-a27849258, Instagram: the_4g_om
+# 👋 Hi, I’m Om Porje
+
+I'm a passionate developer, tech enthusiast, and lifelong learner who loves building and experimenting with real-world tech solutions. 🚀
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **BSc.IT Graduate** | 📊 **Aspiring Data Scientist** | 💻 **Web Developer**
+- 🌱 Currently diving deep into **Data Science** at **DeveLearn Institute**
+- 💼 Built a **gym web application** using **Node.js**, **Stripe API**, and an interactive front-end
+- 📌 Exploring: `Python`, `SQL`, `Machine Learning`
+- 🧠 Always curious to learn & grow — one project at a time
+
+---
+
+## 👀 What I’m Interested In
+
+- 📊 **Data Analytics**
+- 🤖 **Machine Learning Projects** 
+- 🌐 **Responsive Web Development**   
+- 🧩 Solving real-world problems through **code + data**
+
+---
+
+## 🤝 Let’s Collaborate
+
+I'm looking to collaborate on:
+
+- 📈 Real-world **data analysis & visualization**
+- 🌐 Interactive & modern **web development projects**
+- 📊 Projects that combine **backend + data science workflows**
+
+If you’re working on something cool — let’s connect and create something amazing together!
+
+---
+
+## 📫 Connect with Me
+
+- 🐦 [Twitter (X)](https://twitter.com/om_porje)
+- 💼 [LinkedIn](https://www.linkedin.com/in/om-porje-a27849258)
+- 📸 [Instagram](https://www.instagram.com/the_4g_om)
+
+---
+
+### 💬 “Code. Analyze. Learn. Repeat.”  
+Let’s build, break, and rebuild — one line at a time.
 
  
  
